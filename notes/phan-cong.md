@@ -50,7 +50,6 @@ Ngày trình bày: **Thứ Bảy, 31/10/2026**. Thời lượng tối đa: **15 
 | Gán vai trò cho đủ bảy thành viên | 27/10 | Trần Mạnh Đạt | Hoàn thành |
 | Khóa nguồn và luận điểm | 28/10 | Nguyễn Đức Minh, Phạm Thành Hưng, Mã Chí Hiếu | Chưa bắt đầu |
 | Hoàn thành nội dung và speaker notes | 29/10 | Mã Chí Hiếu | Chưa bắt đầu |
-| Bản thiết kế lần 1 | 30/10, 18:00 | Phạm Đức Vinh, Lê Minh Hoàng | Chưa bắt đầu |
-| Rà soát học thuật và xuất PDF | 30/10, 20:00 | Ba người làm nội dung và Lê Minh Hoàng | Chưa bắt đầu |
-| Diễn tập đủ bài dưới 14 phút | 30/10, 21:00 | Cả nhóm | Chưa bắt đầu |
-| Kiểm tra file và trình bày | 31/10 | Trần Mạnh Đạt, Trần Hoàng Sơn | Chưa bắt đầu |
+| Slides thuyet trinh | 30/10, 12:00 | Phạm Đức Vinh, Lê Minh Hoàng | Chưa bắt đầu |
+| Họp + Diễn tập | 30/10, 21:00 | Cả nhóm | Chưa bắt đầu |
+| Trình bày | 31/10 | Trần Mạnh Đạt, Trần Hoàng Sơn | Chưa bắt đầu |
