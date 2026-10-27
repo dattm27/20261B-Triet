@@ -2,9 +2,9 @@
 
 Quy mô chính thức: **7 người**. Phân bổ theo đầu việc: **3 người tìm hiểu nội dung, 2 người làm slide và 2 người thuyết trình**.
 
-## Bảy ô công việc
+## Phân công chi tiết
 
-| Ô | Nhóm việc | Phạm vi chính | Đầu ra bắt buộc | Thành viên |
+| STT | Vai trò | Phạm vi chính | Đầu ra bắt buộc | Thành viên |
 |---:|---|---|---|---|
 | 1 | Tìm hiểu nội dung 1 | Câu hỏi, phạm vi, bối cảnh, khái niệm và timeline; slide 2-5 | Luận điểm, nguồn, số trang và gợi ý timeline | Nguyễn Đức Minh |
 | 2 | Tìm hiểu nội dung 2 | Thực chứng cổ điển, Comte, kinh nghiệm phê phán, thực chứng logic và kiểm chứng; slide 6-10 | Luận điểm, nguồn, số trang và gợi ý sơ đồ | Phạm Thành Hưng |
@@ -41,16 +41,16 @@ Quy mô chính thức: **7 người**. Phân bổ theo đầu việc: **3 ngư�
 3. Thuyết trình 1-2 chạy thử, đánh dấu chỗ dài, khó hiểu hoặc thiếu dẫn chứng.
 4. Người làm slide 2 tổng hợp sửa đổi và khóa bản cuối.
 
-## Mốc làm việc cần điền
+## Tiến độ và hạn nội bộ
 
 Ngày trình bày: **Thứ Bảy, 31/10/2026**. Thời lượng tối đa: **15 phút**.
 
 | Mốc | Hạn nội bộ | Người chốt | Trạng thái |
 |---|---|---|---|
-| Gán tên vào đủ bảy ô công việc | 27/10 | Ô nội dung 1 | Hoàn thành |
-| Khóa nguồn và luận điểm | 28/10 | Ba ô nội dung | Chưa bắt đầu |
-| Hoàn thành nội dung và speaker notes | 29/10 | Ô nội dung 3 | Chưa bắt đầu |
-| Bản thiết kế lần 1 | 30/10, 18:00 | Hai ô slide | Chưa bắt đầu |
-| Rà soát học thuật và xuất PDF | 30/10, 20:00 | Ba ô nội dung và ô slide 2 | Chưa bắt đầu |
+| Gán vai trò cho đủ bảy thành viên | 27/10 | Nguyễn Đức Minh | Hoàn thành |
+| Khóa nguồn và luận điểm | 28/10 | Nguyễn Đức Minh, Phạm Thành Hưng, Mã Chí Hiếu | Chưa bắt đầu |
+| Hoàn thành nội dung và speaker notes | 29/10 | Mã Chí Hiếu | Chưa bắt đầu |
+| Bản thiết kế lần 1 | 30/10, 18:00 | Phạm Đức Vinh, Lê Minh Hoàng | Chưa bắt đầu |
+| Rà soát học thuật và xuất PDF | 30/10, 20:00 | Ba người làm nội dung và Lê Minh Hoàng | Chưa bắt đầu |
 | Diễn tập đủ bài dưới 14 phút | 30/10, 21:00 | Cả nhóm | Chưa bắt đầu |
-| Kiểm tra file và trình bày | 31/10 | Hai ô thuyết trình | Chưa bắt đầu |
+| Kiểm tra file và trình bày | 31/10 | Trần Mạnh Đạt, Trần Hoàng Sơn | Chưa bắt đầu |

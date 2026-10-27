@@ -48,7 +48,7 @@ Nhóm phân bổ thành 3 người tìm hiểu nội dung, 2 người làm slide
 ├── notes/
 │   ├── de-cuong.md           # Dàn ý 16 slide đề xuất
 │   ├── nghien-cuu.md         # Bảng luận điểm, bằng chứng, trích dẫn
-│   └── phan-cong.md          # 7 ô: 3 nội dung, 2 slide, 2 thuyết trình
+│   └── phan-cong.md          # 7 người: 3 nội dung, 2 slide, 2 thuyết trình
 ├── references/
 │   ├── README.md             # Danh mục nguồn, link gốc, checksum
 │   ├── giao-trinh-...pdf     # Tài liệu cục bộ, không đưa vào Git
