@@ -14,7 +14,7 @@ Project chuẩn bị bài tập lớn môn Triết học cho **nhóm 11**.
 
 ## Thành viên
 
-Nhóm chính thức có **7 thành viên**:
+Nhóm chính thức có **8 thành viên**:
 
 1. Lê Minh Hoàng
 2. Phạm Thành Hưng
@@ -23,8 +23,9 @@ Nhóm chính thức có **7 thành viên**:
 5. Trần Hoàng Sơn
 6. Nguyễn Đức Minh
 7. Mã Chí Hiếu
+8. Trương Quang Đức
 
-Nhóm phân bổ thành 3 người tìm hiểu nội dung, 2 người làm slide và 2 người thuyết trình. Chi tiết nằm trong [bảng phân công](notes/phan-cong.md).
+Nhóm phân bổ thành 1 nhóm trưởng theo dõi và kiểm tra công việc, 3 người tìm hiểu nội dung, 2 người làm slide và 2 người thuyết trình. Chi tiết nằm trong [bảng phân công](notes/phan-cong.md).
 
 ## Trạng thái hiện tại
 
@@ -48,7 +49,7 @@ Nhóm phân bổ thành 3 người tìm hiểu nội dung, 2 người làm slide
 ├── notes/
 │   ├── de-cuong.md           # Dàn ý 16 slide đề xuất
 │   ├── nghien-cuu.md         # Bảng luận điểm, bằng chứng, trích dẫn
-│   └── phan-cong.md          # 7 người: 3 nội dung, 2 slide, 2 thuyết trình
+│   └── phan-cong.md          # 8 người: 1 nhóm trưởng và 7 người thực hiện
 ├── references/
 │   ├── README.md             # Danh mục nguồn, link gốc, checksum
 │   ├── giao-trinh-...pdf     # Tài liệu cục bộ, không đưa vào Git
