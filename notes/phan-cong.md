@@ -48,8 +48,8 @@ Ngày trình bày: **Thứ Bảy, 31/10/2026**. Thời lượng tối đa: **15 
 | Mốc | Hạn nội bộ | Người chốt | Trạng thái |
 |---|---|---|---|
 | Gán vai trò cho đủ bảy thành viên | 27/10 | Trần Mạnh Đạt | Hoàn thành |
-| Khóa nguồn và luận điểm | 28/10 | Nguyễn Đức Minh, Phạm Thành Hưng, Mã Chí Hiếu | Chưa bắt đầu |
-| Hoàn thành nội dung và speaker notes | 29/10 | Mã Chí Hiếu | Chưa bắt đầu |
+| Chuẩn bị nội dung | 28/10 | Nguyễn Đức Minh, Phạm Thành Hưng, Mã Chí Hiếu | Chưa bắt đầu |
+| Bàn giao nội dung và speaker notes | 29/10, 12:00 | Mã Chí Hiếu | Chưa bắt đầu |
 | Slides thuyet trinh | 30/10, 12:00 | Phạm Đức Vinh, Lê Minh Hoàng | Chưa bắt đầu |
 | Họp + Diễn tập | 30/10, 21:00 | Cả nhóm | Chưa bắt đầu |
 | Trình bày | 31/10 | Trần Mạnh Đạt, Trần Hoàng Sơn | Chưa bắt đầu |
