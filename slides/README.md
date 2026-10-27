@@ -37,5 +37,6 @@
 - [ ] Không tràn chữ, vỡ font, méo ảnh hoặc thiếu media khi mở trên máy khác.
 - [ ] PDF xuất ra khớp với PPTX.
 - [ ] Thời lượng diễn tập không vượt 14 phút, tạo vùng đệm trước giới hạn 15 phút.
-- [ ] Trương Quang Đức và Phạm Đức Vinh có kịch bản nói, chuyển ý và phương án trả lời phản biện.
+- [ ] Trương Quang Đức đã kiểm tra, lọc và tổ chức nội dung theo từng slide, kèm bản nháp kịch bản nói.
+- [ ] Trần Mạnh Đạt và Phạm Đức Vinh có kịch bản nói, chuyển ý và phương án trả lời phản biện.
 - [ ] Trần Mạnh Đạt đã kiểm tra đầy đủ các đầu việc và xác nhận bản cuối sẵn sàng.

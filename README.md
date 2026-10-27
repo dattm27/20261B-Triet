@@ -25,7 +25,7 @@ Nhóm chính thức có **8 thành viên**:
 7. Mã Chí Hiếu
 8. Trương Quang Đức
 
-Nhóm phân bổ thành 1 nhóm trưởng theo dõi và kiểm tra công việc, 3 người tìm hiểu nội dung, 2 người làm slide và 2 người thuyết trình. Chi tiết nằm trong [bảng phân công](notes/phan-cong.md).
+Nhóm phân bổ thành 1 nhóm trưởng kiêm thuyết trình phần 1, 3 người tìm hiểu nội dung, 1 người biên tập nội dung và kịch bản, 2 người làm slide và 1 người thuyết trình phần 2. Chi tiết nằm trong [bảng phân công](notes/phan-cong.md).
 
 ## Trạng thái hiện tại
 
@@ -49,7 +49,7 @@ Nhóm phân bổ thành 1 nhóm trưởng theo dõi và kiểm tra công việc,
 ├── notes/
 │   ├── de-cuong.md           # Dàn ý 16 slide đề xuất
 │   ├── nghien-cuu.md         # Bảng luận điểm, bằng chứng, trích dẫn
-│   └── phan-cong.md          # 8 người: 1 nhóm trưởng và 7 người thực hiện
+│   └── phan-cong.md          # Phân công và luồng bàn giao của 8 thành viên
 ├── references/
 │   ├── README.md             # Danh mục nguồn, link gốc, checksum
 │   ├── giao-trinh-...pdf     # Tài liệu cục bộ, không đưa vào Git
