@@ -11,7 +11,7 @@ Quy mô chính thức: **7 người**. Phân bổ theo đầu việc: **3 ngư�
 | 3 | Tìm hiểu nội dung 3 | Hậu thực chứng, đặc điểm, giá trị, hạn chế và đánh giá; slide 11-15 | Luận điểm, nguồn, số trang và câu hỏi phản biện | Mã Chí Hiếu |
 | 4 | Làm slide 1 | Hệ thống hình ảnh, cover, timeline và slide 1-8 | Bản thiết kế editable, ảnh có nguồn | Phạm Đức Vinh |
 | 5 | Làm slide 2 | Slide 9-16, hợp nhất file, trích dẫn và kiểm tra bản xuất | PPTX hoàn chỉnh và PDF kiểm tra | Lê Minh Hoàng |
-| 6 | Thuyết trình 1 | Mở bài và slide 1-8 | Kịch bản nói, thời lượng và chuyển ý | Trần Mạnh Đạt |
+| 6 | Điều phối nhóm và thuyết trình 1 | Theo dõi tiến độ, mở bài và slide 1-8 | Kịch bản nói, thời lượng, chuyển ý và tổng hợp tiến độ | Trần Mạnh Đạt |
 | 7 | Thuyết trình 2 | Slide 9-16, kết luận và điều phối Q&A | Kịch bản nói, câu hỏi dự phòng và trả lời phản biện | Trần Hoàng Sơn |
 
 ## Ranh giới trách nhiệm
@@ -47,7 +47,7 @@ Ngày trình bày: **Thứ Bảy, 31/10/2026**. Thời lượng tối đa: **15 
 
 | Mốc | Hạn nội bộ | Người chốt | Trạng thái |
 |---|---|---|---|
-| Gán vai trò cho đủ bảy thành viên | 27/10 | Nguyễn Đức Minh | Hoàn thành |
+| Gán vai trò cho đủ bảy thành viên | 27/10 | Trần Mạnh Đạt | Hoàn thành |
 | Khóa nguồn và luận điểm | 28/10 | Nguyễn Đức Minh, Phạm Thành Hưng, Mã Chí Hiếu | Chưa bắt đầu |
 | Hoàn thành nội dung và speaker notes | 29/10 | Mã Chí Hiếu | Chưa bắt đầu |
 | Bản thiết kế lần 1 | 30/10, 18:00 | Phạm Đức Vinh, Lê Minh Hoàng | Chưa bắt đầu |
