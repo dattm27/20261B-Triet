@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Temporary and generated files
+tmp/
+*.tmp
+~$*.pptx
+
+# Downloaded reference binaries
+# Keep links and checksums in references/README.md instead of committing large files.
+references/*.pdf
+references/*.ppt
+references/*.pptx
+
+# Slide exports and local working copies
+slides/exports/
+slides/drafts/
+
