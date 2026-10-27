@@ -36,15 +36,15 @@ Chủ nghĩa thực chứng thống nhất ở việc đề cao tri thức có c
 
 ## Gợi ý thời lượng
 
-Với bài nói 15 phút:
+Giới hạn chính thức là 15 phút. Khi diễn tập, nhắm **14 phút** để chừa khoảng 1 phút cho chuyển người và sai số:
 
 - Slide 1-2: 1 phút
-- Slide 3-5: 3 phút
-- Slide 6-11: 6 phút
+- Slide 3-5: 2 phút 30 giây
+- Slide 6-11: 5 phút 30 giây
 - Slide 12-15: 4 phút
 - Slide 16: 1 phút
 
-Nếu thời lượng ngắn hơn, gộp slide 3 vào slide 4 và gộp slide 9 với slide 10. Không bỏ phần hạn chế và đánh giá.
+Nếu lần chạy thử vượt 14 phút, gộp slide 3 vào slide 4 và gộp slide 9 với slide 10. Không bỏ phần hạn chế và đánh giá.
 
 ## Các điểm cần tránh
 
@@ -58,4 +58,3 @@ Nếu thời lượng ngắn hơn, gộp slide 3 vào slide 4 và gộp slide 9 
 ## Câu hỏi thảo luận gợi ý
 
 > Một mệnh đề chỉ có ý nghĩa khi có thể kiểm chứng bằng kinh nghiệm hay không? Nếu áp dụng tiêu chuẩn đó cho đạo đức, toán học và chính bản thân nguyên tắc kiểm chứng thì điều gì xảy ra?
-

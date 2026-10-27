@@ -11,6 +11,7 @@
 ## Yêu cầu nội dung
 
 - 16 slide theo [dàn ý](../notes/de-cuong.md), trừ khi cô quy định khác.
+- Thời lượng chính thức tối đa 15 phút; bản diễn tập phải hoàn thành trong khoảng 14 phút.
 - Mỗi slide chỉ có một mục đích rõ ràng.
 - Tiêu đề gọi đúng chủ đề của slide, không dùng khẩu hiệu chung chung.
 - Không đưa đoạn văn dài lên slide. Phần giải thích nằm trong speaker notes.
@@ -35,5 +36,5 @@
 - [ ] Thuật ngữ nhất quán giữa slide và lời nói.
 - [ ] Không tràn chữ, vỡ font, méo ảnh hoặc thiếu media khi mở trên máy khác.
 - [ ] PDF xuất ra khớp với PPTX.
-- [ ] Thời lượng diễn tập nằm trong giới hạn.
+- [ ] Thời lượng diễn tập không vượt 14 phút, tạo vùng đệm trước giới hạn 15 phút.
 - [ ] Mỗi thành viên có phần nói và phương án trả lời phản biện.

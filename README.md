@@ -6,9 +6,15 @@ Project chuẩn bị bài tập lớn môn Triết học cho **nhóm 11**.
 
 **Chủ nghĩa thực chứng: các giai đoạn phát triển, đặc điểm, nội dung, hạn chế, giá trị**
 
+## Lịch trình bày
+
+- Ngày: **Thứ Bảy, 31/10/2026**
+- Thời lượng: **tối đa 15 phút**
+- Mục tiêu khi diễn tập: **14 phút**, chừa khoảng 1 phút cho chuyển người và sai số
+
 ## Thành viên
 
-Danh sách được chép từ ảnh phân nhóm do người dùng cung cấp:
+Nhóm chính thức có **7 thành viên**:
 
 1. Lê Minh Hoàng
 2. Phạm Thành Hưng
@@ -17,7 +23,8 @@ Danh sách được chép từ ảnh phân nhóm do người dùng cung cấp:
 5. Trần Hoàng Sơn
 6. Nguyễn Đức Minh
 7. Mã Chí Hiếu
-8. Trương Quang Đức
+
+Nhóm phân bổ thành 3 người tìm hiểu nội dung, 2 người làm slide và 2 người thuyết trình. Chi tiết nằm trong [bảng phân công](notes/phan-cong.md).
 
 ## Trạng thái hiện tại
 
@@ -25,7 +32,8 @@ Danh sách được chép từ ảnh phân nhóm do người dùng cung cấp:
 - [x] Tải deck tham khảo của nhóm 6 khóa trước
 - [x] Lập khung nội dung bám sát đề tài
 - [x] Tạo bảng phân công nháp và bảng theo dõi nguồn
-- [ ] Xác nhận yêu cầu của cô: thời lượng, số slide, ngày nộp, quy cách trích dẫn
+- [x] Xác nhận ngày trình bày và thời lượng tối đa
+- [ ] Xác nhận số slide và quy cách trích dẫn
 - [ ] Nghiên cứu nguồn học thuật bổ sung cho từng giai đoạn
 - [ ] Viết nội dung và speaker notes
 - [ ] Thiết kế slide
@@ -40,7 +48,7 @@ Danh sách được chép từ ảnh phân nhóm do người dùng cung cấp:
 ├── notes/
 │   ├── de-cuong.md           # Dàn ý 16 slide đề xuất
 │   ├── nghien-cuu.md         # Bảng luận điểm, bằng chứng, trích dẫn
-│   └── phan-cong.md          # Phân công nháp cho 8 thành viên
+│   └── phan-cong.md          # 7 ô: 3 nội dung, 2 slide, 2 thuyết trình
 ├── references/
 │   ├── README.md             # Danh mục nguồn, link gốc, checksum
 │   ├── giao-trinh-...pdf     # Tài liệu cục bộ, không đưa vào Git
@@ -63,4 +71,3 @@ Danh sách được chép từ ảnh phân nhóm do người dùng cung cấp:
 3. Deck nhóm 6 cũ chỉ dùng để tham khảo phạm vi và nhịp trình bày. Không mặc định nội dung trong deck là đúng, không sao chép nguyên văn và không dùng làm nguồn trích dẫn cuối cùng.
 
 Giáo trình chỉ đề cập trực tiếp đến chủ nghĩa thực chứng ở mức tổng quan tại các trang PDF 90, 105 và 106. Vì vậy, phần lịch sử và các đại biểu cần nguồn bổ sung.
-
