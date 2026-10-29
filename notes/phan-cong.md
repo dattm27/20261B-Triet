@@ -63,12 +63,14 @@ Quy mô chính thức: **8 người**. Đạt làm nhóm trưởng kiêm thuyế
 
 Ngày trình bày: **Thứ Bảy, 31/10/2026**. Thời lượng tối đa: **15 phút**.
 
+Thư mục nộp kết quả: <https://drive.google.com/drive/folders/1aqHPmEWXbsrt7gGRuc3pvgC41HW9ly3y>. Xem đánh giá chi tiết tại [theo dõi tiến độ](tien-do.md).
+
 | Mốc | Hạn nội bộ | Người chốt | Trạng thái |
 |---|---|---|---|
 | Gán vai trò cho đủ tám thành viên | 27/10 | Trần Mạnh Đạt | Hoàn thành |
-| Chuẩn bị nội dung | 28/10 | Nguyễn Đức Minh, Phạm Thành Hưng, Mã Chí Hiếu | Chưa bắt đầu |
-| Bàn giao bảng nghiên cứu và ghi chú giải thích | 29/10, 12:00 | Nguyễn Đức Minh | Chưa bắt đầu |
-| Biên tập nội dung theo từng slide và soạn kịch bản | 29/10, 20:00 | Trương Quang Đức | Chưa bắt đầu |
-| Slide thuyết trình | 30/10, 12:00 | Trần Hoàng Sơn, Lê Minh Hoàng | Chưa bắt đầu |
-| Họp + Diễn tập | 30/10, 21:00 | Cả nhóm | Chưa bắt đầu |
+| Chuẩn bị nội dung | 28/10 | Nguyễn Đức Minh, Phạm Thành Hưng, Mã Chí Hiếu | Hoàn thành |
+| Bàn giao bảng nghiên cứu và ghi chú giải thích | 29/10, 12:00 | Nguyễn Đức Minh | Hoàn thành |
+| Biên tập nội dung theo từng slide và soạn kịch bản | 29/10, 20:00 | Trương Quang Đức | Đang thực hiện |
+| Slide thuyết trình | 30/10, 12:00 | Trần Hoàng Sơn, Lê Minh Hoàng | Chưa đến hạn |
+| Họp + Diễn tập | 30/10, 21:00 | Cả nhóm | Chưa đến hạn |
 | Trình bày | 31/10 | Trần Mạnh Đạt, Phạm Đức Vinh | Chưa bắt đầu |

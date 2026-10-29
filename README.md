@@ -49,7 +49,8 @@ Nhóm phân bổ thành 1 nhóm trưởng kiêm thuyết trình phần 1, 3 ngư
 ├── notes/
 │   ├── de-cuong.md           # Dàn ý 16 slide đề xuất
 │   ├── nghien-cuu.md         # Bảng luận điểm, bằng chứng, trích dẫn
-│   └── phan-cong.md          # Phân công và luồng bàn giao của 8 thành viên
+│   ├── phan-cong.md          # Phân công và luồng bàn giao của 8 thành viên
+│   └── tien-do.md            # Kết quả kiểm tra tiến độ và đầu ra trên Drive
 ├── references/
 │   ├── README.md             # Danh mục nguồn, link gốc, checksum
 │   ├── giao-trinh-...pdf     # Tài liệu cục bộ, không đưa vào Git
